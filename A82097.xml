@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of divers gentlemen and others in the principality of Wales, with their propositions to his Highnesse Prince Charles, desiring him to be their Generall, and to grant them an act of indempnity for what is past, with allowance for their arrears due to them at this present. And their instructions how to carry on the work, and to have intelligence with the Scots and Irish, and their desires to have ships and men of war sent into those parts. Also, a true relation of the last fight at Colchester, with the burning of one of their wind-mills; in which action there were divers killed and wounded on both sides. Together with the taking of two captains, divers officers, and 80 common-souldiers at Wentbridge.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82097</idno>
+            <idno type="STC">Wing D606</idno>
+            <idno type="STC">Thomason E456_32</idno>
+            <idno type="STC">ESTC R205052</idno>
+            <idno type="EEBO-CITATION">99864496</idno>
+            <idno type="PROQUEST">99864496</idno>
+            <idno type="VID">116726</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82097)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116726)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E456[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of divers gentlemen and others in the principality of Wales, with their propositions to his Highnesse Prince Charles, desiring him to be their Generall, and to grant them an act of indempnity for what is past, with allowance for their arrears due to them at this present. And their instructions how to carry on the work, and to have intelligence with the Scots and Irish, and their desires to have ships and men of war sent into those parts. Also, a true relation of the last fight at Colchester, with the burning of one of their wind-mills; in which action there were divers killed and wounded on both sides. Together with the taking of two captains, divers officers, and 80 common-souldiers at Wentbridge.</title>
+               </titleStmt>
+               <extent>[2], 4, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.VV.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Indemnity --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116726:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF Divers Gentlemen and others in the Principality OF WALES, WITH Their Propoſitions to his Highneſſe Prince <hi>Charles,</hi> deſi<g ref="char:EOLhyphen"/>ring him to be their Generall, and to grant them an Act of Indempnity for what is paſt, with allowance for their Arrears due to them at this preſent.</p>
+            <p>And their Inſtructions how to carry on the work, and to have intelligence with the Scots and Iriſh, and their Deſires to have Ships and Men of War ſent into thoſe parts.</p>
+            <p>Alſo, a true Relation of the laſt Fight at <hi>Colcheſter,</hi> with the burning of one of their Wind-mills; in which action there were divers killed and wounded on both ſides.</p>
+            <p>Together with the taking of two Captains, divers Officers, and 80 Common-ſouldiers at <hi>Wentbridge.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>R. VV.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:116726:2"/>
+            <head>A LETTER OF The Confederate Welch-men to His Highneſſe the Prince OF WALES</head>
+            <opener>
+               <salute>May it pleaſe your Highneſse,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E hope our Declaration which we have now ſent unto your Highneſſe, will give you ample ſatisfaction as well of our integrity hereto<g ref="char:EOLhyphen"/>fore, as of our intentio<g ref="char:cmbAbbrStroke">̄</g>s for the future to ſerve your Royall Father, and your Self, as farre as we are able to make you both great and glorious as the Parliament promiſed, and we ever intended, and did till of
+<pb n="2" facs="tcp:116726:3"/>late, conceive that they did ſo too, but as ſoon as we cleerly ſaw that they went clean contrary wayes, we addreſſed our ſelves to his Majeſty, and had a promiſe to have ſpeedy di<g ref="char:EOLhyphen"/>rections from him, which we have not yet had; the reaſon whereof, as we conceive, is becauſe of the cloſe reſtraint up<g ref="char:EOLhyphen"/>on him, in regard whereof we do now apply our ſelves un<g ref="char:EOLhyphen"/>to your Highneſſe.</p>
+            <p>We have ſent ſome Propoſitions, which wee hope will ſeem reaſonable to your Highneſſe, and to confirme us in our endeavours, and that your Highneſſe will pleaſe to ſign them and ſome inſtructions concerning our wants and ſup<g ref="char:EOLhyphen"/>plies, to which we hope your Highneſſe will pleaſe to give us a ſpeedy anſwer, that ſo we may go on the more cheer<g ref="char:EOLhyphen"/>fully to reſtore your Royall Father to his greatneſſe, that he may long reign over us, and when it ſhall pleaſe God to give him a Kingdome of glory in Heaven, to leave all His Kingdoms on Earth, to you his Succeſſour in peace and happineſſe, which ſhall ever be the prayer of.</p>
+            <div type="section">
+               <head>
+                  <hi>Propoſitions</hi> ſent by the Confederate VVelch to his High<g ref="char:EOLhyphen"/>neſſe the <hi>Prince of Wales.</hi>
+               </head>
+               <p n="1">
+                  <hi>I.</hi> THat his Highneſſe the Prince of <hi>Wales</hi> will be pleaſed to own them for his Army, and to be their Generall, and if he pleaſe, to come hither in perſon, if not to appoint.</p>
+               <p n="2">
+                  <hi>II.</hi> That they may have an Act of Oblivion and indempnity, and a generall pardon for all things heretofore done by them during this war, and to be freed from ſuits in law, by particular per<g ref="char:EOLhyphen"/>ſons for any thing by them done, touching, or in relation to the war.</p>
+               <pb n="3" facs="tcp:116726:3"/>
+               <p n="3">
+                  <hi>III.</hi> That they may be paid all ſuch arrears as ſhal appear to be due to them at this time, and for which the Parliament hath promiſed to give them Debenters, and a reaſonable time and courſe to be appointed for the payment thereof, and for their fu<g ref="char:EOLhyphen"/>ture pay.</p>
+               <p>That they may continue in ſuch Offices and places as now they have, until they be preferred to greater.</p>
+            </div>
+            <div type="section">
+               <head>Inſtructions to carry on the work.</head>
+               <p>TO take courſe for Armes and Ammunition</p>
+               <p>To ſend Commiſſioners.</p>
+               <p>To keep intelligence and correſpondency with the Prince, and to have a character to write to him by, and to receive Letters from him.</p>
+               <p>To conſider what correſpondency and intelligence they ſhall have with the Scots and Iriſh, and other parts of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>North-wales,</hi> and to what particular perſons they ſhall make their addreſſes.</p>
+               <p>How they may have intelligence from <hi>London, parlia<g ref="char:EOLhyphen"/>ment,</hi> and <hi>Army.</hi>
+               </p>
+               <p>To know their proceedings from time to time, and make addreſſes therein.</p>
+               <p>To have Ships and Men of Warre ſent down into theſe parts.</p>
+               <p>To ſend ſome men of experience to adviſe and aſſiſt them upon all occaſions.</p>
+               <p>To conſider what Officers and Commanders ſhall bee ſent hither, wherein particular care is to be taken, and not to ſend any that may give offence to the ſouldiers or Coun<g ref="char:EOLhyphen"/>try here.</p>
+               <pb n="4" facs="tcp:116726:4"/>
+               <p>To take care to raiſe men and money, and that the per<g ref="char:EOLhyphen"/>ſons that receive the money may be men of truſt, and that they may either give good ſecurity or an Oath, or both to employ it as ſhall be directed; and that if it be miſ-imploy<g ref="char:EOLhyphen"/>ed, he ſhall give notice of it to the Prince, or ſuch as he ſhall appoint to that purpoſe.</p>
+               <p>That there may be ſome of the Country, and ſome of the Army, and ſome from the Prince that may joyn together in raiſing of mony, and quartering of Souldiers in ſuch a way as may leaſt offend the Country.</p>
+               <p>To provide for Proclamations of Pardon for all ſuch as ſhall adhere to them.</p>
+               <p>This Plot was ſecretly carryed on by a great party of Gentlemen and others, who privatly got ſubſcriptions of hands, and had taken an Oath of ſecreſie to be faithfull each to other in the purſuance of this their Deſign; and to give the better gloſs to their intended buſineſs they drew up a Declaration in the Name of the ſubſcribers to this effect. <hi>viz.</hi>
+               </p>
+            </div>
+            <div type="declaration">
+               <head>A Declaration of divers Gentlemen and others in the Prineipality of <hi>Wales.</hi>
+               </head>
+               <p>
+                  <hi>WE who have ſubſcribed our names do declare, That we will uſe our utmost endeavours to bring the King to a perſonall Treaty with his Parliament, with freedom, honour; &amp; ſafety; to the end that the juſt Prerogative of the King, privi<g ref="char:EOLhyphen"/>ledges of Parliament, lawes of the Land, Liberties of the people, may be all maintained and preſerved in their proper bounds, and the Protestant Religion as it now ſtands eſtabliſhed by the Law of the Land restored throughout the Kingdom, with ſuch regard to be had of tender conſciences as ſhall be allowed of by Act of Parliament.</hi>
+               </p>
+               <pb facs="tcp:116726:4"/>
+               <p>It is an old proverb and a true one, delay breeds danger, which our Northern counties finds too true, and if this for<g ref="char:EOLhyphen"/>mer mentioned deſign be not prevented may prove as dan<g ref="char:EOLhyphen"/>gerous to the Counties in Wales.</p>
+               <p>It was long rumoured, that the Scots were raiſing an Ar<g ref="char:EOLhyphen"/>my to come againſt England though few believed it, or ſought to prevent it, which now to late they repent, and have found it to their coſt, no report but a truth, and though the well-affected would not take time by the fore lock, yet the Royaliſts did, for they immediatly ſeized on Pomfract Caſtle withall the Arms and Ammuntion therein, &amp; began to imbody a ſtrong party in the North, to joyn with the Scots, which the other neglecting, is the cauſe that the Scots come forward with much expedition and ſucceſſe.</p>
+               <p>For they have ſeized on Carliſle, Barwick and Appleby, &amp; divers other places<g ref="char:punc">▪</g> and are now on their march to Bernard caſtle notwithſtanding Maj. Gen. Lamberts oppoſition, who hath endeavoured, as much as poſſible could be to retard their march, but for want of moneyes, which is the ſinewes of war, and ſupplies of men, he is forced to retreat.</p>
+               <p>On Wedneſday, the 17 of July, a party of our horſe be<g ref="char:EOLhyphen"/>ing at Wentbridg, and thinking themſelves very ſecure, took up their quarters; every one making what proviſion he could, for himſelf and his horſe, but the enemy at Pomfract having notice thereof by their ſpies, drew forth a party and ſuddainly fell upon our men in their quarters, where they found ſome ſleeping, others drinking, and none of them in a poſture of defence or able to diſpute the buſineſſe: they tooke about eighty common Souldiers, two Captaines and divers other Officers.</p>
+               <p>From Colcheſter our laſt intelligence informeth us, his Excellency commanded forth a party of his Forces, to fire
+<pb facs="tcp:116726:5"/>on of the enemies Windmils which ſtood neer the walls of the ſaid city, who having fitted themſelves with hand Gra<g ref="char:EOLhyphen"/>nado<hi>'e,</hi> and other matterialls fitting for that purpoſe, made their approach, which the enemy perceiving, provided to reſiſt them and defend themſelves, between whom began a very hot deſpute, but our men prevailed ſo far, that they had their deſign in firing the ſaid mill, and hoping it would take good effect they retreated, which the enemy were very joy<g ref="char:EOLhyphen"/>full of, for by that meanes they had good opportunity, to quench the fire which in ſhort ſpace they did, to their com<g ref="char:EOLhyphen"/>fort and our grief.</p>
+               <p>In this conflict there were many kild and wounded on both ſides, what the enemies loſſe was we cannot as yet learn, on our ſide we loſt not above 6 or 7 men, and about 11 were ſlightly wounded.</p>
+               <p>Thoſe in the town are very free of Ammunition of late which we perceive by their ſuperfluous ſhooting, in the town, whereby we are perſwaded that they are in a better condition then we expected, and are likely to hold out yet at the leaſt a moneth longer.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
